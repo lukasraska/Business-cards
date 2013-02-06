@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<records>
+	<card id="bc1">
+		<name>Eduard Sedláček</name>
+		<profession>Právník</profession>
+		<address>Rožmberská 897,Jihlava,699 24</address>
+		<mobile>+420 126 958 343</mobile>
+		<email>ludvo81@seznam.cz</email>
+		<website></website>
+	</card>
+	<card id="bc2">
+		<name>Jaroslav Veselý</name>
+		<profession>Prodavač</profession>
+		<address>Urbinská 587,Teplice,340 21</address>
+		<mobile>+420 358 196 178</mobile>
+		<email>truckman4436@seznam.cz</email>
+		<website>http://www.Karosak38.cz</website>
+	</card>
+	<card id="bc3">
+		<name>Vladimír Růžička</name>
+		<profession>Učitel</profession>
+		<address>V Zatiší 2,Praha,122 94</address>
+		<mobile>+420 971 484 484</mobile>
+		<email>Nomad73@seznam.cz</email>
+		<website>http://www.ScaniaSevHvez98.cz</website>
+	</card>
+	<card id="bc4">
+		<name>Zbyněk Růžička</name>
+		<profession>Číšník</profession>
+		<address>Třešňová 560,Olomouc,930 78</address>
+		<mobile>+420 467 309 471</mobile>
+		<email>volvo94@seznam.cz</email>
+		<website>http://www.volvo93.cz</website>
+	</card>
+	<card id="bc5">
+		<name>David Dvořák</name>
+		<profession>Právník</profession>
+		<address>Budějovická 6,Zlín,112 39</address>
+		<mobile>+420 601 598 914</mobile>
+		<email>stiv7@seznam.cz</email>
+		<website>http://www.RichardJohn35.cz</website>
+	</card>
+	<card id="bc6">
+		<name>Eduard Černý</name>
+		<profession>Zednář</profession>
+		<address>U Nových Domovů 235,Praha,390 11</address>
+		<mobile>+420 585 618 284</mobile>
+		<email>Papu71@seznam.cz</email>
+		<website>http://www.peta80994.cz</website>
+	</card>
+	<card id="bc7">
+		<name>Václav Kratochvíl</name>
+		<profession>Manažer</profession>
+		<address>U Trojice 197,Liberec,675 32</address>
+		<mobile>+420 514 473 463</mobile>
+		<email>ViliQ36@seznam.cz</email>
+		<website>http://www.nim34.cz</website>
+	</card>
+	<card id="bc8">
+		<name>František Beneš</name>
+		<profession>Číšník</profession>
+		<address>Lipová 907,Pardubice,803 58</address>
+		<mobile>+420 328 269 973</mobile>
+		<email>Lukas38@seznam.cz</email>
+		<website>http://www.nim27.cz</website>
+	</card>
+	<card id="bc9">
+		<name>Walter Sedláček</name>
+		<profession>Krejčí</profession>
+		<address>Družstevní 258,Pardubice,152 30</address>
+		<mobile></mobile>
+		<email>VlkyScania3@seznam.cz</email>
+		<website>http://www.nim82.cz</website>
+	</card>
+	<card id="bc10">
+		<name>Oliver Kříž</name>
+		<profession>Student</profession>
+		<address>U Jitky 758,Karviná,665 82</address>
+		<mobile>+420 465 492 893</mobile>
+		<email>Lybbor46@seznam.cz</email>
+		<website>http://www.Lukas41.cz</website>
+	</card>
+	<card id="bc11">
+		<name>Jan Moravec</name>
+		<profession>Kuchař</profession>
+		<address>Po Vodě 94,Frýdek-Místek,970 37</address>
+		<mobile>+420 181 308 255</mobile>
+		<email>truckman4496@seznam.cz</email>
+		<website>http://www.truckman4471.cz</website>
+	</card>
+	<card id="bc12">
+		<name>Stanislav Růžička</name>
+		<profession>Kuchař</profession>
+		<address>U Peráků 374,Havířov,142 72</address>
+		<mobile>+420 826 168 804</mobile>
+		<email>Karosak26@seznam.cz</email>
+		<website>http://www.Magnum923.cz</website>
+	</card>
+	<card id="bc13">
+		<name>Zdeněk Beneš</name>
+		<profession>Manažer</profession>
+		<address>Šeříková 980,České Budějovice,286 38</address>
+		<mobile>+420 338 884 806</mobile>
+		<email>Smejo70@seznam.cz</email>
+		<website>http://www.trucker99938.cz</website>
+	</card>
+	<card id="bc14">
+		<name>Karel Pospíšil</name>
+		<profession>Ekonom</profession>
+		<address>Skalka 682,Plzeň,390 39</address>
+		<mobile>+420 125 177 296</mobile>
+		<email>Lybbor44@seznam.cz</email>
+		<website>http://www.volvo32.cz</website>
+	</card>
+	<card id="bc15">
+		<name>Václav Doležal</name>
+		<profession>Student</profession>
+		<address>Za Plevnem 438,Brno,400 86</address>
+		<mobile>+420 698 523 519</mobile>
+		<email>trucker9995@seznam.cz</email>
+		<website>http://www.scaniaman29.cz</website>
+	</card>
+	<card id="bc16">
+		<name>Václav Růžička</name>
+		<profession>Manažer</profession>
+		<address>Družstevná 260,Kladno,678 88</address>
+		<mobile>+420 787 904 234</mobile>
+		<email>milkos77@seznam.cz</email>
+		<website>http://www.Lukas33.cz</website>
+	</card>
+</records>
